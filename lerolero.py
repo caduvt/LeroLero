@@ -12,7 +12,7 @@ import random
 parte1 = [
     "O sistema em desenvolvimento",
     "O novo protocolo de comunicação",
-    "O algoritmo foi otimizado e"
+    "O algoritmo de otimização"
     ]
 
 parte2 = [
