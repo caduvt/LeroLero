@@ -1,4 +1,5 @@
 #!usr/bin/python3
+# link do repositório: https://github.com/caduvt/LeroLero/
 
 """Gerador de lero-lero.
 
