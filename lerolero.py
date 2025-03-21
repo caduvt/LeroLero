@@ -27,7 +27,6 @@ parte3 = [
     ", provendo ampla vantagem competitiva a seus usuários"
     ]
 
-
 lingua = int(input("Escolha a lingua: 1 - português; 2 - inglês\n"))
 
 if lingua == 2:
