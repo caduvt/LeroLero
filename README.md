@@ -1,2 +1,3 @@
 # LeroLero
-Uma aula terrivelmente foda sobre github e versionamento de código :sparkles: :rocket:
+Um gerador de frases de impacto sem sentido algum
+:sparkles: :rocket:
